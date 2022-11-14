@@ -1,6 +1,2 @@
-# chat-application
-Messaging has become a part of our everyday lives in part due to its convenience for real  time chat communication and simple-to-use functionality. A chat application makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. With a chat app, users are able to receive the same engaging and lively interactions through custom messaging features, just as they would in person. This also keeps users conversing on your platform instead of looking elsewhere for a messaging solution. Whether it’s private chat, group chat, or large-scale chat, adding personalized chat features to your app can help ensure that your users have a memorable experience.
-About the system 
-We will be using Node.js for the back end, which will be responsible for creating rooms and managing users in those rooms. Additionally, we will be using Socket.io to enable real-time, bidirectional communication between the web server and the client (browser).WebSocket is a communication protocol for having real-time, bidirectional, and low-latency communication between the web server and the browser. Socket.io is basically a JavaScript library built using the WebSocket API to enable all of this.
- 
-Used both frontend ( HTML ,Javascript ,jquery ) and backend ( python ,nodejs  and database sqlite)
+# django-chat-app
+ Chat application using Django
